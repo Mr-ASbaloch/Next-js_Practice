@@ -2,7 +2,7 @@ import React from 'react'
 
 const App = () => {
   return (
-    <div>work page</div>
+    <div>work page layout</div>
   )
 }
 
